@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-image: url("green-background.jpg");
+    background-size: cover;
+    color: white;
+    font-size:2rem;
+    font-weight:bold;
+}
+h1{
+    color:yellow;
+}
+
+h3{
+    color:yellow;
+    border-style: solid;
+    border-color: darkblue;
+    border-width: 5px;
+    border-radius: 1.5rem;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#player-el{
+    color:yellow
+}
+
+button{
+    font-size:1.5rem;
+    font-weight: bold;
+    color: #016f32;
+    width: 13rem;
+    height:3rem;
+    background:goldenrod;
+    border:none;
+    border-radius: 10px;
+}
